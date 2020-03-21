@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name DDR4_DIMM)(type KiCad)(uri ${KIPRJMOD}/../modules/DDR4_DIMM.pretty)(options "")(descr ""))
+  (lib (name FBGA96)(type KiCad)(uri ${KIPRJMOD}/../modules/FBGA96.pretty)(options "")(descr ""))
+  (lib (name DDR4_SPD)(type KiCad)(uri ${KIPRJMOD}/../modules/DDR4_SPD.pretty)(options "")(descr ""))
+)

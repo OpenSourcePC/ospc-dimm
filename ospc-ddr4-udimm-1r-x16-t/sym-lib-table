@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name DDR4_DRAM)(type Legacy)(uri ${KIPRJMOD}/../libraries/DDR4_DRAM.lib)(options "")(descr ""))
+  (lib (name DDR4_DIMM)(type Legacy)(uri ${KIPRJMOD}/../libraries/DDR4_DIMM.lib)(options "")(descr ""))
+  (lib (name DDR4_Power)(type Legacy)(uri ${KIPRJMOD}/../libraries/DDR4_Power.lib)(options "")(descr ""))
+  (lib (name DDR4_SPD)(type Legacy)(uri ${KIPRJMOD}/../libraries/DDR4_SPD.lib)(options "")(descr ""))
+)
